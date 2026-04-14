@@ -29,13 +29,20 @@ https://docs.conda.io/projects/conda/en/4.6.1/user-guide/tasks/manage-environmen
 
 ## Acknowledments
 The notebooks were created by
+
 Roberto Basili
+
 Istituto Nazionale di Geofisica e Vulcanologia
+
 Via di Vigna Murata, 605 - 00143 Roma, Italy
+
 https://orcid.org/0000-0002-1213-0828
 
+
 With contributions by
+
 Rita Chiara Taccone, Francesco E. Maesano, Antonio Scala
+
 Istituto Nazionale di Geofisica e Vulcanologia
 
 The notebooks are provided free for use via a GNU General Public License v 3.0
