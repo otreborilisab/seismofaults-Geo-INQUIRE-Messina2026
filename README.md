@@ -4,7 +4,8 @@ Repository containing Jupyter notebooks to demonstrate access and usage of the E
 
 See the EDSF web portal (https://seismofaults.eu/efsm20) for more information about the datasets.
 
-**Web Services**
+Web Services
+
 EFSM20 (geometry and activity parameters) OGC Web Feature Service catalogue
 https://services.seismofaults.eu/EFSM20/ows?service=WFS&request=getCapabilities
 
