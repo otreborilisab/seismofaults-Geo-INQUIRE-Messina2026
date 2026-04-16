@@ -22,7 +22,7 @@ https://services.seismofaults.eu/EFSM20_Meshes/ows?service=WFS&request=GetCapabi
 ## Setup
 Set up a virtual environment with the following dependencies:
 
-#!pip install -q matplotlib geopandas shapely pandas requests numpy math scipy owslib ipyleaflet ipywidgets
+#!pip install -q matplotlib geopandas shapely pandas requests numpy math scipy owslib ipyleaflet ipywidgets "pyvista[jupyter]" trame
 
 If running on conda, please refer to 
 https://docs.conda.io/projects/conda/en/4.6.1/user-guide/tasks/manage-environments.html
