@@ -1,10 +1,10 @@
 # seismofaults-Geo-INQUIRE-Messina2026
 
-Repository containing Jupyter Notebooks to demonstrate access and usage of the EFEHR European Fault-Source Model 2020 Web services (OGC WFS) at the GEO-INQUIRE Workshop in Messina, Italy, April 2026
+Repository containing Jupyter Notebooks to demonstrate access and usage of the EFEHR European Fault-Source Model 2020 Web services (OGC WFS) at the GEO-INQUIRE Workshop in Messina, Italy, April 2026 (https://www.geo-inquire.eu/dissemination/workshops/hazard-modelling).
 
 See the EDSF web portal (https://seismofaults.eu/efsm20) for more information about the datasets.
 
-## Web Services
+## Web Services (Geo-INQUIRE installation VA2-33-1)
 
 EFSM20 (geometry and activity parameters) OGC Web Feature Service
 https://services.seismofaults.eu/EFSM20/ows?service=WFS&request=getCapabilities
