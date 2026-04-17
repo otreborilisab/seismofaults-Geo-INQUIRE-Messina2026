@@ -47,3 +47,5 @@ With contributions by
 
 
 The notebooks are provided free for use via a GNU General Public License v 3.0
+
+Geo-INQUIRE is funded by the European Commission under project number 101058518 within the HORIZON-INFRA-2021-SERV-01 call.
